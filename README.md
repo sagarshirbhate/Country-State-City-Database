@@ -1,13 +1,14 @@
-# Worlds-All-City-Database
+### Worlds All Countries , States and Cities in Single File (Less than 1.5 MB):
 
-Names Of all Countries , States and cities are included in JSON , PLIST and XML Format.
+<sub>Names Of all Countries , States and cities are included in JSON , PLIST and XML Format</sub>
+-
+<sub>All data is present just you have to add file in your project and fetch it from file.</sub>
+-
+<sub>Their structure is like</sub>
+-
+* Country -> States -> Cities.
 
-All data is present just you have to add file in your project and fetch it from file.
-
-Their structure is like :
-Country -> States -> Cities.
-
-Json Structure is As Follows,(Not Complete List Just Sample)
+### Json Structure is As Follows,(Not Complete List Just Sample)
 ```javascript
 {
 "Countries":[
