@@ -1,3 +1,5 @@
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)          [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
+
 ### Worlds All Countries , States and Cities in Single File (Less than 1.5 MB):
 
 <sub>Names Of all Countries , States and cities are included in JSON , PLIST and XML Format</sub>
@@ -56,3 +58,10 @@
       }
              
 ```
+
+<sub>Note :</sub>
+- 
+* This Free database dose not guarantee for the complete list of world countries, states and cities
+* You can manually change the spelling mistakes, or add edit any records, which are not correct.
+
+
