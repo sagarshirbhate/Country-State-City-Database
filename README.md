@@ -1,4 +1,4 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)          [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)          ![MIT Licence](https://img.shields.io/badge/Lisence-Apache%202.0-brightgreen.svg)
 
 ### Worlds All Countries , States and Cities in Single File (Less than 1.5 MB):
 
@@ -124,7 +124,8 @@
 </plist>
 ```
 ### Plist Structure is As Follows,(Not Complete List Just Sample)
-![ScreenShot](https://github.com/sagarshirbhate/Instagram-Feed-View/blob/master/1.gif)
+![ScreenShot](https://github.com/sagarshirbhate/Worlds-All-Country-State-City-Database/blob/master/Plist_Screenshot.png)
+
 <sub>Note :</sub>
 - 
 * This Free database dose not guarantee for the complete list of world countries, states and cities
